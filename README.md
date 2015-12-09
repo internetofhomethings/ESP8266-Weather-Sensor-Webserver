@@ -3,6 +3,7 @@
 <h2><strong>ESP8266 Webserver for Weather Sensors</strong></h2>
 
 <strong>Installation Instructions</strong>
+
 1. Sketch compiled using Arduino IDE Version 1.6.5
 2. Copy the WiFiWebServer-WeatherSensors folder to your Arduino sketch folder.
 3. Copy the UtilityFunctions folder to your Arduino libraries folder.
