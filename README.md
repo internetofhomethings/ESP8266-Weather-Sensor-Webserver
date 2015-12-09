@@ -1,4 +1,4 @@
-# ESP8266-WeatherSensor-Webserver
+# ESP8266-Weather-Sensor-Webserver
 
 <h2><strong>ESP8266 Webserver for Weather Sensors</strong></h2>
 
