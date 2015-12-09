@@ -10,10 +10,10 @@
 4. Copy the Adafruit_BMP085 folder to your Arduino libraries folder.
 5. Change the following sketch lines to match your network settings:
 
-const char* ssid = "<wifi-ssid>";          //your wifi ssid
-const char* password = "<wifi-password>";  //your wifi password
-const uint8_t ipadd[4] = {192,168,0,132};  //static ip assigned to ESP8266
-const uint8_t ipgat[4] = {192,168,0,1};    //local router gateway ip
+const char* ssid = "<wifi-ssid>";          //your wifi ssid<br>
+const char* password = "<wifi-password>";  //your wifi password<br>
+const uint8_t ipadd[4] = {192,168,0,132};  //static ip assigned to ESP8266<br>
+const uint8_t ipgat[4] = {192,168,0,1};    //local router gateway ip<br>
 
 <strong>About this sketch</strong>
 
